@@ -39,6 +39,9 @@ A engenharia de software é uma disciplina que se concentra na aplicação de pr
 
 O SWEBOK é um guia que descreve as áreas de conhecimento essenciais para a prática profissional da engenharia de software. Ele é mantido e atualizado pelo **IEEE (Institute Of Electrical And Electronics Engineers) Computer Society** e fornece uma estrutura para a educação em engenharia de software, ajudando a estabelecer padrões e diretrizes para o campo. Ele abrange uma ampla gama de tópicos, incluindo processos de software, requisitos de engenharia, design de software, construção de software, testes de software, manutenção de software, gerenciamento de configuração e muitos outros. O SWEBOK é uma referência importante para profissionais e educadores no campo da engenharia de software.
 
+- [SWEBOK - Inglês](https://github.com/fabiojcs93/anotacoes/blob/master/curso-programador-sap/documentos/swebok-eng-us.pdf)
+- [SWEBOK - Português](https://github.com/fabiojcs93/anotacoes/blob/master/curso-programador-sap/documentos/swebok-pt-br.pdf)
+
 ## Etapas da Construção de Software
 
 De acordo com o SWEBOK, as etapas da construção de um software geralmente seguem as etapas de:
